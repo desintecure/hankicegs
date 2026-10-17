@@ -1,0 +1,6 @@
+{
+  "name": "Baeru Cegs",
+  "description": "Baeru CEGS - Compras em grupo internacionais com tema cutesie e rosa pastel inspirado no modelo woongbaer.com.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
