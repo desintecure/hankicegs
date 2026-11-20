@@ -1,6 +1,0 @@
-{
-  "name": "Baeru Cegs",
-  "description": "Baeru CEGS - Compras em grupo internacionais voltadas para o grupo AHOF.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
